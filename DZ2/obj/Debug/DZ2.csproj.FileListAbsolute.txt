@@ -1,3 +1,8 @@
 C:\Users\ahmet\Desktop\DZ\Task1811\Task1811\DZ2\obj\Debug\DZ2.csproj.AssemblyReference.cache
 C:\Users\ahmet\Desktop\DZ\Task1811\Task1811\DZ2\obj\Debug\DZ2.csproj.SuggestedBindingRedirects.cache
 C:\Users\ahmet\Desktop\DZ\Task1811\Task1811\DZ2\obj\Debug\DZ2.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\DZ\Task1811\Task1811\DZ2\bin\Debug\DZ2.exe.config
+C:\Users\ahmet\Desktop\DZ\Task1811\Task1811\DZ2\bin\Debug\DZ2.exe
+C:\Users\ahmet\Desktop\DZ\Task1811\Task1811\DZ2\bin\Debug\DZ2.pdb
+C:\Users\ahmet\Desktop\DZ\Task1811\Task1811\DZ2\obj\Debug\DZ2.exe
+C:\Users\ahmet\Desktop\DZ\Task1811\Task1811\DZ2\obj\Debug\DZ2.pdb
