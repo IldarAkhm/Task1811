@@ -1,0 +1,31 @@
+﻿while (cnt1 != 1);
+                                    switch (vari)
+                                    {
+                                        case 12:
+                                            Console.WriteLine("12"); cnt1 = 1;
+                                            break;
+                                        case 13:
+                                            tasks.Add(new Task(q, c[0], c[2], init, i, "Назначена", new Report()));
+                                            cnt1 = 1;
+                                            break;
+                                        case 14:
+                                            tasks.Add(new Task(q, c[0], c[3], init, i, "Назначена", new Report()));
+                                            cnt1 = 1;
+                                            break;
+                                        case 23:
+                                            tasks.Add(new Task(q, c[1], c[2], init, i, "Назначена", new Report()));
+                                            cnt1 = 1;
+                                            break;
+                                        case 24:
+                                            tasks.Add(new Task(q, c[1], c[3], init, i, "Назначена", new Report()));
+                                            cnt1 = 1;
+                                            break;
+                                        case 34:
+                                            tasks.Add(new Task(q, c[2], c[3], init, i, "Назначена", new Report()));
+                                            cnt1 = 1;
+                                            break;
+                                        default:
+                                            Console.WriteLine("Такую дату не поставить попробуй еще раз");
+                                            break;
+
+                                    }
